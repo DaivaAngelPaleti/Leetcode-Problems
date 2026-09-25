@@ -41,6 +41,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -54,4 +55,24 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## String
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
