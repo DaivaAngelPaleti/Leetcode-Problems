@@ -61,6 +61,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Backtracking
 |  |
@@ -70,6 +71,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -78,4 +80,8 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
