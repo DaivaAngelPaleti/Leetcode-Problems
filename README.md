@@ -30,6 +30,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3525-find-x-value-of-array-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
@@ -66,6 +67,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
