@@ -10,6 +10,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 | [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2235-add-two-integers](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [3525-find-x-value-of-array-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Simulation
 |  |
