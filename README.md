@@ -12,6 +12,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [3525-find-x-value-of-array-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Simulation
@@ -96,4 +97,5 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
