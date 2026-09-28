@@ -7,12 +7,14 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [3525-find-x-value-of-array-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -60,6 +62,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
