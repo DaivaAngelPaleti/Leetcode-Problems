@@ -34,6 +34,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3525-find-x-value-of-array-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Segment Tree
 |  |
@@ -43,6 +44,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +103,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,4 +113,5 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
