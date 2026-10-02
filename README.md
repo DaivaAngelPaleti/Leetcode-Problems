@@ -8,6 +8,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 | ------- |
 | [0202-happy-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
