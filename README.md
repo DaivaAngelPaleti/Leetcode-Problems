@@ -6,6 +6,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -56,6 +57,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -117,4 +119,12 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
