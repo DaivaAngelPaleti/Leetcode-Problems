@@ -46,6 +46,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
@@ -79,6 +80,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -92,6 +94,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -107,6 +110,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
