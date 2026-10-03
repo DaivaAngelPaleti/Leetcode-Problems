@@ -9,6 +9,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 | [0202-happy-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0263-ugly-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0509-fibonacci-number) |
@@ -81,6 +82,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -118,6 +120,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
