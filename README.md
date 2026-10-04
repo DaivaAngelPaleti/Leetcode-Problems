@@ -49,6 +49,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0509-fibonacci-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
@@ -84,6 +85,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 | [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -97,6 +99,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -113,6 +116,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -136,4 +140,8 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
