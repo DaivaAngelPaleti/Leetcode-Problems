@@ -83,6 +83,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -139,6 +140,7 @@ I aim to solve atleast 1 problem a day for everyday and continuously improve my 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/DaivaAngelPaleti/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
